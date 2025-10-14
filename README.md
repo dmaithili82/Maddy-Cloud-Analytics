@@ -1,10 +1,17 @@
-# Cloud Analytics Dashboard
+# 📊 Maddy Cloud Analytics Project
 
-A small project to demonstrate hands-on cloud and data skills using Python.  
-This repo will include scripts to process sample data, generate charts, and optionally upload to AWS S3.
+This project demonstrates a simple, cloud-friendly **data analytics workflow using Python**.  
+It reads sample sales data, analyzes it with `pandas`, and visualizes results with `matplotlib`.
 
-## Project Structure
-- `data/`: sample CSV files
-- `scripts/`: Python scripts
-- `output/`: charts and dashboard outputs
-- `requirements.txt`: Python dependencies
+---
+
+## 🧰 Tech Stack
+- Python 3.12
+- pandas
+- matplotlib
+- Git & GitHub
+- (Optional) AWS S3
+
+---
+
+## 📂 Project Structure
