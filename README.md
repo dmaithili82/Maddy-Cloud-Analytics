@@ -15,3 +15,13 @@ It reads sample sales data, analyzes it with `pandas`, and visualizes results wi
 ---
 
 ## 📂 Project Structure
+Maddy-Cloud-Analytics/
+├── data/
+│ └── sample_sales.csv
+├── output/
+│ ├── sales_by_product.png
+│ ├── sales_by_region.png
+│ └── sales_trend.png
+├── visualize_sales.py
+├── requirements.txt
+└── README.md
