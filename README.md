@@ -26,3 +26,14 @@ Maddy-Cloud-Analytics/
 ├── requirements.txt
 └── README.md
 
+## 📈 Example Charts
+
+### Total Sales by Product
+![Sales by Product](output/sales_by_product.png)
+
+### Total Sales by Region
+![Sales by Region](output/sales_by_region.png)
+
+### Daily Sales Trend
+![Sales Trend](output/sales_trend.png)
+
