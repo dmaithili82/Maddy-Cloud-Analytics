@@ -37,3 +37,18 @@ Maddy-Cloud-Analytics/
 ### Daily Sales Trend
 ![Sales Trend](output/sales_trend.png)
 
+☁️ Deployment
+
+This project can be hosted as a static dashboard on AWS S3 to showcase analytics visualizations.
+Automation is handled using GitHub Actions, which runs the Python visualization script automatically on each push to the repository.
+
+🚀 Future Enhancements
+
+Integrate AWS Lambda for automatic data refresh
+
+Upload generated charts to S3 directly via GitHub Actions
+
+Add a front-end dashboard (HTML + Bootstrap) for interactive viewing
+
+Extend dataset and add trend forecasting
+
