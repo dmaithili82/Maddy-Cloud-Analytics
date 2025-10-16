@@ -52,7 +52,7 @@ Automation is handled using GitHub Actions, which runs the Python visualization 
 
 This project also includes a Terraform module under /infra/terraform that provisions a custom AWS VPC to demonstrate real-world DevOps and IaC skills.
 
-Highlights:
+**Highlights:**
 
 Creates a secure, tagged AWS VPC (maddy-vpc) using Terraform.
 
@@ -62,14 +62,14 @@ Uses provider pinning, outputs, and .gitignore for safe version control.
 
 Easily extensible — can add subnets, gateways, or EC2 instances later.
 
-Commands:
+**Commands:**
 
 terraform init       # Initialize Terraform
 terraform plan       # Preview resources
 terraform apply      # Create VPC
 terraform destroy    # Clean up
 
-Key Concepts:
+**Key Concepts:**
 
 Infrastructure as Code (IaC)
 
